@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb896b90-0136-4348-aa3e-7c707fa12bd0" name="Changes" comment="" />
+    <list default="true" id="fb896b90-0136-4348-aa3e-7c707fa12bd0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/SpringBootCrud/SpringBootCrud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootCrud/SpringBootCrud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootCrud/SpringBootCrud/src/main/java/com/example/SpringBootCrud/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootCrud/SpringBootCrud/src/main/java/com/example/SpringBootCrud/controller/EmployeeController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2j0Jkqu3GMv91koupREcqRfKThD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -18,8 +24,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature-spring",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Rg-preJoining/rg-assignments/Employee-SpringBoot-JPA/SpringBootCrud"
+    "last_opened_file_path": "D:/Rg-preJoining/rg-assignments/Employee-Spring/EmployeeCRUD/EmployeeCRUD"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

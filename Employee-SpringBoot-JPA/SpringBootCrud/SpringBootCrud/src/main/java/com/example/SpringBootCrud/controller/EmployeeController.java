@@ -33,7 +33,7 @@ public class EmployeeController {
     public void updateEmployee(@PathVariable String id, @RequestBody Employee employee) {
         employeeService.updateEmployee(id,employee);
     }
-
+    @RequestMapping(method=RequestMethod.DELETE,value = "/employees/{id}")
     public void deleteEmployee(@PathVariable String id){
         employeeService.deleteEmployee(id);
     }
